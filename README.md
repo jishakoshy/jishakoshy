@@ -1,5 +1,14 @@
 ### Hi there 👋
+<a href="google.com"> 
 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</a>
+<a href="www.linkedin.com/in/jisha-koshy">
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+<a href="instagram.com/jisha">
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</a>
 <!--
 **jishakoshy/jishakoshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
